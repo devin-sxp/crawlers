@@ -1,0 +1,3 @@
+userThreads(用户线程数,几个用户同时下载,'0'表示全部开始):0
+downloadThreads(下载线程数):1
+nicknames(用户 以','号隔开):tokyotube甜甜,忥郳
